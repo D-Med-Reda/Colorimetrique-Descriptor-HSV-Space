@@ -5,7 +5,7 @@ We have examined the results that we could obtain with another approach, that of
 
 
 # Programming language / Library
-Implementation of the latter in traditional C ++ programming language through the OpenCV library, reference in image processing);
+Implementation of the latter in traditional C ++ programming language through the OpenCV library, reference in image processing.
 
 # How to use
 
